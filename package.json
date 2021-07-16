@@ -1,0 +1,22 @@
+{
+  "name": "notes-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stym2610/notes-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stym2610/notes-automation/issues"
+  },
+  "homepage": "https://github.com/stym2610/notes-automation#readme",
+  "dependencies": {
+    "puppeteer": "5.2.0"
+  }
+}
